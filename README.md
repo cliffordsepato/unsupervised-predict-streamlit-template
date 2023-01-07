@@ -101,7 +101,7 @@ To do this, follow the steps below by running the given commands within a Git ba
 
 You should also be automatically directed to the base page of your web app. This should look something like:
 
-![Streamlit base page](resources/imgs/landing_page_sample.png)
+![Streamlit base page](resources/imgs/base-page.PNG)
 
 Congratulations! You've now officially deployed your web-based recommender engine!
 
